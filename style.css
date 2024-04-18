@@ -1,0 +1,44 @@
+.main{
+    background-color: skyblue;
+    width: 60%;
+
+}
+.leftside{
+    margin-right: 10%;
+}
+.personal-info, .prev-info, .refer{
+    color: saddlebrown;
+}
+.name_c1, .name_c2, .email, .resume, .edu{
+    display: inline-grid;
+}
+.addr{
+    width: 50%;
+}
+.addr{
+    margin-left: 30%;
+}
+
+.state, .city {
+    display: inline-block;
+    vertical-align: top; /* Align the elements to the top */
+}
+
+.state input{
+    width: 10%;
+}
+
+.city input{
+    width: 20%;
+}
+
+.pno1 input{
+    width: 5%;
+}
+.pno2 input{
+    width: 15%;
+}
+
+.hob input{
+    width: 50%;
+}
